@@ -1,0 +1,33 @@
+.box
+{
+width=300px;
+height=300px;
+}
+.red
+{
+border:4px solid blue;
+background-color:red;
+color:red;
+position:absolute;top:200px;left:200px; width:100; height:100;
+}
+.blue
+{
+border:4px solid red;
+background-color:blue;
+color:blue;
+position:absolute;top:200px;left:410px; width:100; height:100;
+}
+.pink
+{
+border:4px solid black;
+background-color:pink;
+color:pink;
+position:absolute;top:100px;left:308px; width:100; height:100;
+}
+.yellow
+{
+border:4px solid orange;
+background-color:yellow;
+color:yellow;
+position:absolute;top:300px;left:308px; width:100; height:100;
+}
